@@ -1,0 +1,40 @@
+.container{
+    border-style: solid;
+    margin: center;
+    padding-top: 80px;
+}
+#account {
+    margin: 70px;
+}
+.input{
+    width: 60;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+label {
+    font-size: 16px;
+    margin: 10px 0 5px;
+    display: block;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
